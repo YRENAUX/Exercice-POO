@@ -13,7 +13,7 @@ class QuestionController
             
             $conn = $dao->openConnection();
             
-            $sql = "SELECT id_question,question, FROM `question` ORDER BY id DESC";
+            $sql = "SELECT * FROM `question`";
             
             $resource = $conn->query($sql);
             
