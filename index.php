@@ -17,7 +17,7 @@
   </head>
   <body>
   
-    <div class="col-12">
+    <div class="col-12 text-center mx-auto" style="font-size:40px;">
         <a href="#">Créer QCM</a>
     </div>
 
