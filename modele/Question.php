@@ -1,0 +1,6 @@
+<?
+    class Question{
+        private $question;
+        
+    }
+?>
